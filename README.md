@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
