@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0412-fizz-buzz) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0509-fibonacci-number) |
