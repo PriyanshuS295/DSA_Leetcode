@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
