@@ -29,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
