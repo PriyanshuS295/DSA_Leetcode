@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
@@ -94,6 +95,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
