@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -109,4 +110,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PriyanshuS295/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
